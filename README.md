@@ -13,4 +13,4 @@ Useful links :
 Now you can find a "how-to" here :
 - [Talk Slides](https://docs.google.com/presentation/d/1_tYnbelJgW44k1ailW2polydCuh10m6XdRZXzUr8DuM/edit?usp=sharing)
 
-Rest of the README is coming soon :-)
+More of the README coming soon :-)
